@@ -1,0 +1,11 @@
+bot_token = ""
+bot_chat_id = ""
+
+twitter_account_id = ""
+twitter_account_id2 = ""
+
+twitter_consumer_api_key = ""
+twitter_consumer_api_secret_key = ""
+twitter_bearer_token = ""
+twitter_access_token =  ""
+twitter_access_token_secret = ""
